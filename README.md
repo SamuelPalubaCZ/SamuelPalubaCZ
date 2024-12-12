@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://blog.paluba.me](https://blog.paluba.me)
 
-- 💬 Ask me about **Bitcoin, Android, Graphene OS, Linux, Ollama**
+- 💬 Ask me about **Bitcoin, Web3, Selfhost, PrivacyTech, Android, Graphene OS, Linux, FreeBSD, LLM, etc.**
 
 - 📫 How to reach me **samuel@paluba.me**
 
@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/palubasamuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="palubasamuel" height="30" width="40" /></a>
-<a href="https://instagram.com/nejnovejsi_uzivatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nejnovejsi_uzivatel" height="30" width="40" /></a>
+<a href="https://instagram.com/samuelpaluba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nejnovejsi_uzivatel" height="30" width="40" /></a>
 <a href="/https://blog.paluba.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.paluba.me" height="30" width="40" /></a>
 </p>
 
