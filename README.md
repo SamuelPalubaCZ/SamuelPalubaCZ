@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [ThinkHome (chleap ThinkPad sále)](https://ThinkHome.paluba.me)
 
-- 🌱 I’m currently learning **React, JavaScript**
+- 🌱 I’m currently learning **React, JavaScript, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://www.paluba.me](https://www.paluba.me)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **samuel@paluba.me**
 
-- ⚡ Fun fact **I'm Libertarian**
+- ⚡ Fun fact **I'm Libertarian/Minarchist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
